@@ -1,7 +1,7 @@
 {
   "name": "personal-website-2.0",
   "version": "0.1.0",
-  "homepage": "http://tahaafzal5.github.io/personal-website-2.0/",
+  "homepage": "http://www.tahaafzal.com/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
