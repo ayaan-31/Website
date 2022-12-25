@@ -1,7 +1,7 @@
 import Navbar from '../Navbar/Navbar.js';
 import Resume from '../Resume/Resume.js';
 import './App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (

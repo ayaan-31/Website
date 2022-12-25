@@ -18,14 +18,14 @@ function ContactInfo() {
             </div>
 
             <div className="logos">
-                <a className="logo" href="http://github.com/tahaafzal5/" target="_blank">
+                <a className="logo" href="http://github.com/tahaafzal5/" target="_blank" rel="noreferrer">
                     <img className="github-logo" src={GitHubLogo} alt="GitHub logo." />
                 </a>
-                <a className="logo" href="http://linkedin.com/in/tahaafzal5/" target="_blank">
+                <a className="logo" href="http://linkedin.com/in/tahaafzal5/" target="_blank" rel="noreferrer">
                     <img className="linkedin-logo" src={LinkedinLogo} alt="Linkedin logo." />
                 </a>
 
-                <a className="logo" href={ResumePdf} target="_blank">
+                <a className="logo" href={ResumePdf} target="_blank" rel="noreferrer">
                     <img className="download-logo" src={DownloadLogo}
                         alt="PDF file download logo for Taha's resume." />
                 </a>
