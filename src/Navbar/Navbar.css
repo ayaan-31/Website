@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgb(53, 58, 63);
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    justify-content: left;
+    gap: 50px;
+    font-weight: bold;
+}
+
+.navbar-link {
+    color: lightgray;
+    text-decoration: none;
+}
+
+.navbar-link:hover {
+    color: white;
+}
+
+.navbar-link:active {
+    color: white;
+}

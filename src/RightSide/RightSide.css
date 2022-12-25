@@ -1,0 +1,77 @@
+.right-side {
+    background-color: black;
+    color: white;
+    padding: 20px 20px 50px 20px;
+    margin-top: -50px;
+}
+
+.about,
+.skills,
+.contact-info,
+.logos {
+    color: gray;
+    margin: 15px 0px 0px 0px;
+}
+
+.logos {
+    margin: 50px 0px 0px 0px;
+}
+
+.about-text,
+.skills-points,
+.email,
+.phone {
+    color: white;
+}
+
+/* BUG: right-side won't wrap properly based on screen size with more than 2 columns */
+.skills-points {
+    columns: 2;
+}
+
+.email,
+.phone,
+.about-text a,
+.logo {
+    margin: 20px 0px 0px 0px;
+    text-decoration: none;
+    color: white;
+}
+
+.github-logo,
+.linkedin-logo,
+.download-logo {
+    max-width: 40px;
+    margin: 0px 10px 0px 0px;
+}
+
+/* doing this in a media query to avoid messing things up on devices without actual hover (e.g. mobile phones) */
+@media (hover: hover) {
+    .github-logo:hover {
+        content: url(../Assets/Images/github-logo-hover.jpg);
+        transform: scale(1.1);
+    }
+
+    .linkedin-logo:hover {
+        content: url(../Assets/Images/linkedin-logo-hover.jpg);
+        transform: scale(1.1);
+    }
+
+    .download-logo:hover {
+        content: url(../Assets/Images/download-logo-hover.jpg);
+        transform: scale(1.1);
+    }
+
+    .email:hover,
+    .phone:hover,
+    .about-text a:hover {
+        color: lightgray;
+    }
+}
+
+.copyright-info {
+    font-size: 10px;
+    color: white;
+    text-align: left;
+    margin: 50px 0px 0px 0px;
+}
