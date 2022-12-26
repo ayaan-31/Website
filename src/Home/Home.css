@@ -1,4 +1,9 @@
 .home {
     /* common to all components being shown under the navbar */
-    margin: 50px 0px 0px 25px; 
+    margin: 50px 25px 50px 25px;
+}
+
+.content {
+    margin: 10px 0px 0px 0px;
+    font-size: 18px;
 }
