@@ -10,7 +10,7 @@
         /* stretch all the way */
         width: 100%;
         /* value for margin-left here would be: negative of (body.margin-left minus desired value) */
-        margin: 30px 10px 10px -40px;
+        margin: 30px 10px 10px -15px;
     }
 }
 

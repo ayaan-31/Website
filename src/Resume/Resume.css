@@ -1,9 +1,8 @@
 .resume {
-    margin: 20px 20px 150px 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin: 50px 0px 0px 50px;
+    margin: 50px 0px 0px 25px;
 }
 
 @media (max-width: 850px) {
