@@ -1,3 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
+# robots.txt for http://www.tahaafzal.com/
+
 User-agent: *
 Disallow:
