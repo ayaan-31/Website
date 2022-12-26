@@ -1,6 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
-import ProfileOverview from "../ProfileOverview/ProfileOverview";
+import ProfileOverview from "../../Components/ProfileOverview/ProfileOverview";
 import "./Home.css";
 
 function Home() {

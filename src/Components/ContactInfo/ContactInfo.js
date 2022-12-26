@@ -1,8 +1,8 @@
 import React from "react";
-import GitHubLogo from "../Assets/Images/github-logo.png";
-import LinkedinLogo from "../Assets/Images/linkedin-logo.jpg";
-import DownloadLogo from "../Assets/Images/download-logo.jpg";
-import ResumePdf from "../Assets/Files/resume-taha-afzal.pdf";
+import GitHubLogo from "../../Assets/Images/github-logo.png";
+import LinkedinLogo from "../../Assets/Images/linkedin-logo.jpg";
+import DownloadLogo from "../../Assets/Images/download-logo.jpg";
+import ResumePdf from "../../Assets/Files/resume-taha-afzal.pdf";
 
 function ContactInfo() {
     return (

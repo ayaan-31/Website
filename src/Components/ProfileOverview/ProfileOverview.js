@@ -1,5 +1,5 @@
 import React from "react";
-import Memoji from "../Assets/Images/memoji.png";
+import Memoji from "../../Assets/Images/memoji.png";
 import "./ProfileOverview.css";
 
 function ProfileOverview() {

@@ -58,17 +58,17 @@
 /* doing this in a media query to avoid messing things up on devices without actual hover (e.g. mobile phones) */
 @media (hover: hover) {
     .github-logo:hover {
-        content: url(../Assets/Images/github-logo-hover.jpg);
+        content: url(../../Assets/Images/github-logo-hover.jpg);
         transform: scale(1.1);
     }
 
     .linkedin-logo:hover {
-        content: url(../Assets/Images/linkedin-logo-hover.jpg);
+        content: url(../../Assets/Images/linkedin-logo-hover.jpg);
         transform: scale(1.1);
     }
 
     .download-logo:hover {
-        content: url(../Assets/Images/download-logo-hover.jpg);
+        content: url(../../Assets/Images/download-logo-hover.jpg);
         transform: scale(1.1);
     }
 

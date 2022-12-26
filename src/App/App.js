@@ -1,8 +1,8 @@
-import Navbar from '../Navbar/Navbar.js';
-import Home from '../Home/Home.js';
-import Resume from '../Resume/Resume.js';
-import ReleaseNotes from '../ReleaseNotes/ReleaseNotes.js';
-import NotFound from '../NotFound/NotFound.js';
+import Navbar from '../Components/Navbar/Navbar.js';
+import Home from '../Pages/Home/Home.js';
+import Resume from '../Pages/Resume/Resume.js';
+import ReleaseNotes from '../Pages/ReleaseNotes/ReleaseNotes.js';
+import NotFound from '../Pages/NotFound/NotFound.js';
 import './App.css';
 import { Routes, Route } from 'react-router-dom';
 
