@@ -30,6 +30,14 @@ function ReleaseNotes() {
             </info>
 
             <div>
+                <p className="version">v23.1.0</p>
+                <ul>
+                    <li>..</li>
+                    <li>Some internal re-org, typo fixes, & bug fixes.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v22.4.0</p>
                 <ul>
                     <li>First launch with just the good ol' navbar with an in-progress home page and a link to my resume page.</li>
