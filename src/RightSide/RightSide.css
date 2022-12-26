@@ -31,6 +31,7 @@
 .email,
 .phone {
     color: white;
+    line-height: normal;
 }
 
 /* BUG: right-side won't wrap properly based on screen size with more than 2 columns */

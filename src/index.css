@@ -17,3 +17,7 @@ code {
   font-size: 23px;
   font-weight: 900;
 }
+
+ul {
+  line-height: 1.5;
+}
