@@ -32,7 +32,7 @@ function ReleaseNotes() {
             <div>
                 <p className="version">v22.4.0</p>
                 <ul>
-                    <li>First launch with just the good ol' navbar with a in-progress home page and a link to my resume page.</li>
+                    <li>First launch with just the good ol' navbar with an in-progress home page and a link to my resume page.</li>
                     <li>404 page so you don't have to see GitHub's default 404 page.</li>
                     <li>Release notes page for the ones who find it.</li>
                 </ul>
