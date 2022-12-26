@@ -6,6 +6,7 @@ import Educations from "../Education/Educations.js";
 import HonorsAndAwards from "../HonorAndAward/HonorsAndAwards.js";
 import Projects from "../Projects/Projects.js";
 import LeadershipAndAffiliations from "../LeadershipAndAffiliations/LeadershipAndAffiliations.js";
+import "./LeftSide.css";
 
 function LeftSide() {
     return (
