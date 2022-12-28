@@ -3,6 +3,7 @@ import Home from '../Pages/Home/Home.js';
 import Resume from '../Pages/Resume/Resume.js';
 import ReleaseNotes from '../Pages/ReleaseNotes/ReleaseNotes.js';
 import NotFound from '../Pages/NotFound/NotFound.js';
+import Footer from '../Components/Footer/Footer.js';
 import './App.css';
 import { Routes, Route } from 'react-router-dom';
 
@@ -17,6 +18,7 @@ function App() {
         <Route exact path='/release-notes' element={<ReleaseNotes />}></Route>
         <Route path='*' element={<NotFound />}></Route>
       </Routes>
+      <Footer />
     </div>
   );
 }
