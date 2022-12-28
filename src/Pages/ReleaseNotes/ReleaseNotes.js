@@ -32,8 +32,8 @@ function ReleaseNotes() {
             <div>
                 <p className="version">v23.1.0</p>
                 <ul>
-                    <li>..</li>
-                    <li>Some internal re-org, typo fixes, & bug fixes.</li>
+                    <li>Introducing the all-new footer!</li>
+                    <li>Internal re-org and some typo & bug fixes.</li>
                 </ul>
             </div>
 
