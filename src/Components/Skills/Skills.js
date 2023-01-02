@@ -3,7 +3,7 @@ import React from "react";
 function Skills() {
     return (
         <section className="skills">
-            Advanced Skills
+            Skills
             <ul className="skills-points">
                 <li>Java</li>
                 <li>C++</li>
@@ -12,22 +12,14 @@ function Skills() {
                 <li>SQL</li>
                 <li>Git</li>
                 <li>AWS</li>
-                <li>JavaScript</li>
-                <li>Python</li>
+                <li>R</li>
+                <li>Bash</li>
                 <li>Swift</li>
-            </ul>
-
-            Intermediate Skills
-
-            <ul className="skills-points">
+                <li>Python</li>
                 <li>Docker</li>
                 <li>Terraform</li>
-                <li>TypeScript</li>
-                <li>Bash</li>
-                <li>React</li>
-                <li>Ansible</li>
-                <li>R</li>
-                <li>Grafana</li>
+                <li>ReactJS</li>
+                <li>JavaScript</li>
             </ul>
         </section>
     );
