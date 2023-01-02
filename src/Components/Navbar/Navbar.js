@@ -1,13 +1,15 @@
 import React from "react";
 import "./Navbar.css";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 function Navbar() {
+    const location = useLocation();
+
     return (
         <section className="navbar">
-            <Link className="navbar-link" to="/">Home</Link>
-            <Link className="navbar-link" to="/resume">Resume</Link>
-        </section>
+            <Link className={location.pathname === "/" || location.pathname === "/home" ? "navbar-link-selected" : "navbar-link"} to="/">Home</Link>
+            <Link className={location.pathname === "/resume" ? "navbar-link-selected" : "navbar-link"} to="/resume">Resume</Link>
+        </section >
     );
 }
 

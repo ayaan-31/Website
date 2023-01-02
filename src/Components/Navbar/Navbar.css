@@ -17,6 +17,7 @@
     color: white;
 }
 
-.navbar-link:active {
+.navbar-link-selected {
     color: white;
+    text-decoration: none;
 }

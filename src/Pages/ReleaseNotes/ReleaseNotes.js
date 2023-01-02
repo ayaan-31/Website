@@ -30,6 +30,13 @@ function ReleaseNotes() {
             </info>
 
             <div>
+                <p className="version">v23.1.1</p>
+                <ul>
+                    <li>The Navbar now indicates the active page.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v23.1.0</p>
                 <ul>
                     <li>Introducing the all-new footer!</li>
