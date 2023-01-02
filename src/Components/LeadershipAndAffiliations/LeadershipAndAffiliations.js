@@ -42,7 +42,6 @@ function LeadershipAndAffiliations() {
                 date="Sep 2019 - May 2021"
                 description={[
                     "Founded the first eSports club at Augustana College to provide a platform for students to compete in tournaments and build their network.",
-                    "Organized 10+ tournaments with over 100 participants and 10+ sponsors.",
                 ]}
             />
         </section >
