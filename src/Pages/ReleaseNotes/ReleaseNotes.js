@@ -13,21 +13,19 @@ function ReleaseNotes() {
                 Release Notes
             </div>
 
-            <info>
-                Newest to oldest in this format: <code>year.quarter.patch</code>
-                <ul>
-                    <li><code>year</code>: calendar year of release</li>
-                    <li><code>quarter</code>: quarter of release
-                        <ul>
-                            <li>Q1 (Jan - Mar)</li>
-                            <li>Q2 (Apr - Jun)</li>
-                            <li>Q3 (Jul - Sep)</li>
-                            <li>Q4 (Oct - Dec)</li>
-                        </ul>
-                    </li>
-                    <li><code>patch</code>: 0-indexed patch number of release</li>
-                </ul>
-            </info>
+            Newest to oldest in this format: <code>year.quarter.patch</code>
+            <ul>
+                <li><code>year</code>: calendar year of release</li>
+                <li><code>quarter</code>: quarter of release
+                    <ul>
+                        <li>Q1 (Jan - Mar)</li>
+                        <li>Q2 (Apr - Jun)</li>
+                        <li>Q3 (Jul - Sep)</li>
+                        <li>Q4 (Oct - Dec)</li>
+                    </ul>
+                </li>
+                <li><code>patch</code>: 0-indexed patch number of release</li>
+            </ul>
 
             <div>
                 <p className="version">v23.1.1</p>
