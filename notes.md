@@ -1,7 +1,9 @@
 # Notes
 
 ## TO-DO:
-- add more resources.
+- add more resources
+- write tests
+- read all React docs
 - fix all console warnings and/or errors
 - top navbar with links to
     - media
