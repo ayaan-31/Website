@@ -31,6 +31,8 @@ function ReleaseNotes() {
                 <p className="version">v23.1.1</p>
                 <ul>
                     <li>The Navbar now indicates the active page.</li>
+                    <li>Adds the new "Resources" tab with some material for Resume and Interviews.</li>
+                    <li>Mandatory internal re-org and some typo & bug fixes.</li>
                 </ul>
             </div>
 
