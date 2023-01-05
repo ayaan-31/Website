@@ -1,15 +1,9 @@
 # Notes
 
-## finish up:
-- add logs for browser console
-
-## things to do/improve:
-- sticky top navbar with links to
-    - welcome
-        - default
-        - like a welcome, get to know me, and fun page (a "blog")
-        - this page will continue to have the profile-overiew
-    - resume (move all my resume section there)
+## TO-DO:
+- add more resources.
+- fix all console warnings and/or errors
+- top navbar with links to
     - media
         - recently read
             - books
@@ -23,9 +17,6 @@
             - etc
 - future of the right-side
     - options:
-        - contents might stay the same & it will be visible on all subpages
-        - remove all together & find a new home for its current contents
-        - contents stay the same for the welcome page but change sligthly for the other subpages
         - break right-side into top & bottom sections
             - top
                 - profile-overview
