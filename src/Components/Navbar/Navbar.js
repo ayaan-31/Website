@@ -9,6 +9,7 @@ function Navbar() {
         <section className="navbar">
             <Link className={location.pathname === "/" || location.pathname === "/home" ? "navbar-link-selected" : "navbar-link"} to="/">Home</Link>
             <Link className={location.pathname === "/resume" ? "navbar-link-selected" : "navbar-link"} to="/resume">Resume</Link>
+            <Link className={location.pathname === "/resources" ? "navbar-link-selected" : "navbar-link"} to="/resources">Resources</Link>
         </section >
     );
 }
