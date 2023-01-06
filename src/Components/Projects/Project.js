@@ -13,8 +13,8 @@ function Project(props) {
             <div className="date">{date}</div>
             <div className="description">
                 <ul className="description-points">
-                    {description.map((point) => (
-                        <li>{point}</li>
+                    {description.map((point, index) => (
+                        <li key={index}>{point}</li>
                     ))}
                 </ul>
             </div>
