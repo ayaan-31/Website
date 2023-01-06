@@ -9,7 +9,7 @@ function Home() {
             <Helmet>
                 <title>Home - Taha Afzal</title>
             </Helmet>
- 
+
             <ProfileOverview />
 
             <div className="heading">
