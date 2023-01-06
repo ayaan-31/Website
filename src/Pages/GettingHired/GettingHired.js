@@ -15,8 +15,8 @@ function GettingHired() {
 
             <div className="content">
                 <p>
-                    During my college years, I compiled a list of resources to
-                    help me improve my resume, learn how to prepare for behavioral
+                    During my college years, I compiled a list of resources for
+                    improving my resume, learning how to prepare for behavioral
                     interviews, tips-and-tricks to ace those interviews, and general
                     advice to get myself hired.
                     It have learned from these studies, experts, and recruiters.
