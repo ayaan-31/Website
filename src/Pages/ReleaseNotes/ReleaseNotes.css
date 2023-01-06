@@ -1,0 +1,12 @@
+.release-notes {
+    /* common to all components not being shown under the navbar */
+    margin: 0px 25px 50px 25px;
+}
+
+.version {
+    font-weight: bold;
+}
+
+ul {
+    font-size: 16px;
+}

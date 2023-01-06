@@ -1,0 +1,32 @@
+# Notes
+
+## TO-DO:
+- add more resources
+- write tests
+- read all React docs
+- fix all console warnings and/or errors
+- top navbar with links to
+    - media
+        - recently read
+            - books
+            - articles
+        - recently heard
+            - podcasts
+    - cool tab
+        - CashApp or Apple Pay for donations/support
+        - integration with cool APIs:
+            - ChatGPT
+            - etc
+- future of the right-side
+    - options:
+        - break right-side into top & bottom sections
+            - top
+                - profile-overview
+                - about
+                - skills
+            - bottom
+                - contact-info
+                - logos
+- pull contents from a db instead of hardcoding
+- landscape mode fix
+    - right-side won't go all the way to the right. Fix it.

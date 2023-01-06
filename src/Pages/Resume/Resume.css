@@ -1,0 +1,12 @@
+.resume {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 50px 0px 0px 25px;
+}
+
+@media (max-width: 850px) {
+    .resume {
+        flex-wrap: wrap;
+    }
+}
