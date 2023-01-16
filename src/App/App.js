@@ -3,6 +3,7 @@ import Home from '../Pages/Home/Home.js';
 import Resume from '../Pages/Resume/Resume.js';
 import Resources from '../Pages/Resources/Resources.js';
 import GettingHired from '../Pages/GettingHired/GettingHired.js';
+import BooksRead from '../Pages/BooksRead/BooksRead.js';
 import ReleaseNotes from '../Pages/ReleaseNotes/ReleaseNotes.js';
 import NotFound from '../Pages/NotFound/NotFound.js';
 import Footer from '../Components/Footer/Footer.js';
@@ -20,6 +21,7 @@ function App() {
         <Route exact path='/resources' element={<Resources />}></Route>
         <Route exact path='/release-notes' element={<ReleaseNotes />}></Route>
         <Route exact path='/resources/getting-hired' element={<GettingHired />}></Route >
+        <Route exact path='/resources/books-read' element={<BooksRead />}></Route >
         <Route exact path='*' element={<NotFound />}></Route>
       </Routes>
       <Footer />

@@ -31,8 +31,11 @@ function Resources() {
                 </blockquote-footer>
             </blockquote>
 
-            {/* TODO: Component-ize this below ??  */}
             <ul className="resources-list">
+                <li className="list-date">January 16, 2023</li>
+                {/* TODO: look at how to append "books-read" to the current path instead of hard-coding */}
+                <li className="list-title"><a href="/#/resources/books-read">Books I Have Read</a></li>
+
                 <li className="list-date">January 04, 2023</li>
                 {/* TODO: look at how to append "getting-hired" to the current path instead of hard-coding */}
                 <li className="list-title"><a href="/#/resources/getting-hired">Getting Hired</a></li>

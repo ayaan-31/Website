@@ -1,0 +1,14 @@
+.books-read {
+    /* common to all components not being shown under the navbar */
+    margin: 0px 25px 50px 25px;
+}
+
+.books-read-list {
+    list-style: none;
+    padding: 0px;
+}
+
+.book-title {
+    margin: 0px 10px 20px 30px;
+    list-style: disc;
+}
