@@ -2,6 +2,18 @@
 
 Rebirth of [personal-website](https://github.com/tahaafzal5/personal-website), which was written only in HTML and CSS. The code was also very messy and not very scalable. Was just a weekend project. personal-website-2.0 addresses all these issues.
 
+## Project Structure
+- `src/`
+    - `index.js` entry point of the app.
+    - `App/` root component of the app.
+    - `Assets/` all the files, images, etc used by the app.
+    - `Components/` all the reusable, small-sized components.
+    - `Pages/` all the pages reachable within the website.
+    - `Tests/` all the tests for the website.
+    - `WebVitals/` modular library for measuring all the Web Vitals metrics on real users.
+
+## Usage
+
 ### Build
 - Clone the repo: `git clone git@github.com:tahaafzal5/personal-website-2.0.git`
 - Navigate to the project: `cd personal-website.2.0`
