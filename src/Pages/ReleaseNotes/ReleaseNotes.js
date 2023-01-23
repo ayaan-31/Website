@@ -28,6 +28,13 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v23.1.3</p>
+                <ul>
+                    <li>Added a page for my .zshrc file.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v23.1.2</p>
                 <ul>
                     <li>Added a page for books I have read so far.</li>
