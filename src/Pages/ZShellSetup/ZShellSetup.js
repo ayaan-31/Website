@@ -42,7 +42,7 @@ function ZShellSetup() {
                 />
 
                 <p>
-                    Since I use homebrew to install packages, I need to add the homebrew bin directory to my path.
+                    Since I use homebrew to install packages, I need to add the homebrew <code>bin</code> directory to my path.
                 </p>
                 <CodeBlock
                     text={`export PATH="/opt/homebrew/bin:$PATH"`}
@@ -63,7 +63,7 @@ autoload -U colors && colors`}
                 />
 
                 <p>
-                    I always like my prompt to be green, have ny username, the machine name,
+                    I always like my prompt to be green, have my username, the machine name,
                     and just the last piece from my current directory.
                 </p>
                 <CodeBlock
@@ -79,7 +79,7 @@ autoload -U colors && colors`}
                 <p>
                     The <code>p</code> option in the <code>ll</code> alias stands for shows a <code>/</code> with
                     each directory. Since I am slightly red-blue colorblind, the <code>/</code> helps me distinguish between
-                    files and directories much better than if were using colors.
+                    files and directories much better than if I was using colors.
                 </p>
                 <CodeBlock
                     text={`alias ll="ls -alihp"
