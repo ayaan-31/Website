@@ -12,7 +12,7 @@ function LeadershipAndAffiliations() {
                 date="May 2020 - Aug 2021"
                 description={[
                     "Facilitated 10+ educational programs to increase academic, social, and professional opportunities for underrepresented students.",
-                    "Increasing studentsʼ awareness and cultural competency through 1-on-1 mentorship.",
+                    "Increased studentsʼ awareness and cultural competency through 1-on-1 mentorship.",
                 ]}
             />
 

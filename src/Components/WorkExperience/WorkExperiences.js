@@ -12,9 +12,9 @@ function WorkExperiences() {
                 date="May 2022 - Present"
                 description={[
                     "Spearheading development of the next-generation Raven Operating Software (ROS) in an Agile team of 7 using Qt and C++.",
-                    "Developing software in a 3-tier architecture (Client, Server, and Database) while consistently following best practices.",
-                    "Specifying, prototyping, developing, and testing applications built with Model - View - Controller(MVC) architectural pattern.",
-                    "Leading the enhancement of a file conversion library to create JSON and CSV files from a proprietary file format.",
+                    "Specifying, architecting, prototyping, developing, and testing applications while consistently following best practices.",
+                    "Leading the enhancement of a file conversion library to create JSON, CSV, and XML files from a proprietary file format.",
+                    "Collaborating with the team to convert ROS to use CMake instead of qmake as the build system.",
                     "Utilizing Google Test (gtest) to write unit tests ensuring my code meets the quality standards.",
                     "Debugging ROS with gdb-multiarch, analyzing application and system logs, and documenting code using Doxygen."
                 ]}
