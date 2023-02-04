@@ -34,7 +34,7 @@ function Resources() {
             <ul className="resources-list">
                 <li className="list-date">Feb 3, 2023</li>
                 {/* TODO: look at how to append "time-travel-bug" to the current path instead of hard-coding */}
-                <li className="list-title"><a href="/#/resources/time-travel-bug">Time Travel Bug</a></li>
+                <li className="list-title"><a href="/#/resources/time-travel-bugs">Time Travel Bugs</a></li>
 
                 <li className="list-date">January 21, 2023</li>
                 {/* TODO: look at how to append "zshell-setup" to the current path instead of hard-coding */}

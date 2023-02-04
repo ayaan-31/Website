@@ -1,16 +1,16 @@
 import React from "react";
 import { Helmet } from "react-helmet";
-import "./TimeTravelBug.css";
+import "./TimeTravelBugs.css";
 
-function TimeTravelBug() {
+function TimeTravelBugs() {
     return (
-        <section className="time-travel-bug">
+        <section className="time-travel-bugs">
             <Helmet>
-                <title>Time Travel Bug - Taha Afzal</title>
+                <title>Time Travel Bugs - Taha Afzal</title>
             </Helmet>
 
             <div className="heading">
-                Time Travel Bug
+                Time Travel Bugs
             </div>
 
             <div className="content">
@@ -98,4 +98,4 @@ function TimeTravelBug() {
     );
 }
 
-export default TimeTravelBug;
+export default TimeTravelBugs;
