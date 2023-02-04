@@ -90,8 +90,8 @@ function TimeTravelBug() {
 
                 <p>
                     While time seems to be a very easy thing to do, it is much more complicated than that. Two of the Computerphile videos I like on time are
-                    <a href="https://youtu.be/-5wpm-gesOY" target={"_blank"}>The Problem with Time & Timezones</a> and
-                    <a href="https://youtu.be/BAo5C2qbLq8" target={"_blank"}>Network Time Protocol (NTP)</a>.
+                    <a href="https://youtu.be/-5wpm-gesOY" target={"_blank"}>The Problem with Time & Timezones</a> and <a href="https://youtu.be/BAo5C2qbLq8" target={"_blank"}>
+                        Network Time Protocol (NTP)</a>.
                 </p>
             </div>
         </section >
