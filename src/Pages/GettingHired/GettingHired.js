@@ -6,7 +6,7 @@ function GettingHired() {
     return (
         <section className="getting-hired">
             <Helmet>
-                <title>Getting Hired - Taha Afzal</title>
+                <title>Getting Hired</title>
             </Helmet>
 
             <div className="heading">

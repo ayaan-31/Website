@@ -8,7 +8,7 @@ function Resume() {
     return (
         <section className="resume">
             <Helmet>
-                <title>Resume - Taha Afzal</title>
+                <title>Resume</title>
             </Helmet>
 
             <LeftSide />

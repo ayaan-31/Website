@@ -6,7 +6,7 @@ function ReleaseNotes() {
     return (
         <section className="release-notes">
             <Helmet>
-                <title>Release Notes - Taha Afzal</title>
+                <title>Release Notes</title>
             </Helmet>
 
             <div className="heading">

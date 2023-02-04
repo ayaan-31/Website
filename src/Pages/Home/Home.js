@@ -7,7 +7,7 @@ function Home() {
     return (
         <section className="home">
             <Helmet>
-                <title>Home - Taha Afzal</title>
+                <title>Home</title>
             </Helmet>
 
             <ProfileOverview />

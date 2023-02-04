@@ -7,7 +7,7 @@ function ZShellSetup() {
     return (
         <section className="zshell-setup">
             <Helmet>
-                <title>Z Shell Setup - Taha Afzal</title>
+                <title>Z Shell Setup</title>
             </Helmet>
 
             <div className="heading">

@@ -6,7 +6,7 @@ function TimeTravelBugs() {
     return (
         <section className="time-travel-bugs">
             <Helmet>
-                <title>Time Travel Bugs - Taha Afzal</title>
+                <title>Time Travel Bugs</title>
             </Helmet>
 
             <div className="heading">

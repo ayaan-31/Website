@@ -6,7 +6,7 @@ function BooksRead() {
     return (
         <section className="books-read">
             <Helmet>
-                <title>Books Read - Taha Afzal</title>
+                <title>Books Read</title>
             </Helmet>
 
             <div className="heading">

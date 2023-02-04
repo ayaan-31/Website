@@ -6,7 +6,7 @@ function Resources() {
     return (
         <section className="resources">
             <Helmet>
-                <title>Resources - Taha Afzal</title>
+                <title>Resources</title>
             </Helmet>
 
             <p>Writing is one of the best ways to learn and retain information.</p>
