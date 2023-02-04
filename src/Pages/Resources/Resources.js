@@ -33,7 +33,7 @@ function Resources() {
 
             <ul className="resources-list">
                 <li className="list-date">Feb 3, 2023</li>
-                {/* TODO: look at how to append "time-travel-bug" to the current path instead of hard-coding */}
+                {/* TODO: look at how to append "time-travel-bugs" to the current path instead of hard-coding */}
                 <li className="list-title"><a href="/#/resources/time-travel-bugs">Time Travel Bugs</a></li>
 
                 <li className="list-date">January 21, 2023</li>
