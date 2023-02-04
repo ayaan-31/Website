@@ -4,7 +4,7 @@ import Resume from '../Pages/Resume/Resume.js';
 import Resources from '../Pages/Resources/Resources.js';
 import GettingHired from '../Pages/GettingHired/GettingHired.js';
 import BooksRead from '../Pages/BooksRead/BooksRead.js';
-import ZShellSetup from '../Pages/ZShellSetup/ZShellSetup.js';
+import MyZShellSetup from '../Pages/MyZShellSetup/MyZShellSetup.js';
 import TimeTravelBugs from '../Pages/TimeTravelBugs/TimeTravelBugs.js';
 import ReleaseNotes from '../Pages/ReleaseNotes/ReleaseNotes.js';
 import NotFound from '../Pages/NotFound/NotFound.js';
@@ -24,7 +24,7 @@ function App() {
         <Route exact path='/release-notes' element={<ReleaseNotes />}></Route>
         <Route exact path='/resources/getting-hired' element={<GettingHired />}></Route >
         <Route exact path='/resources/books-read' element={<BooksRead />}></Route >
-        <Route exact path='/resources/zshell-setup' element={<ZShellSetup />}></Route >
+        <Route exact path='/resources/my-zshell-setup' element={<MyZShellSetup />}></Route >
         <Route exact path='/resources/time-travel-bugs' element={<TimeTravelBugs />}></Route>
         <Route exact path='*' element={<NotFound />}></Route>
       </Routes>

@@ -1,13 +1,13 @@
 import React from "react";
 import Helmet from "react-helmet";
 import { CodeBlock } from "react-code-blocks";
-import "./ZShellSetup.css";
+import "./MyZShellSetup.css";
 
-function ZShellSetup() {
+function MyZShellSetup() {
     return (
-        <section className="zshell-setup">
+        <section className="my-zshell-setup">
             <Helmet>
-                <title>Z Shell Setup</title>
+                <title>My Z Shell Setup</title>
             </Helmet>
 
             <div className="heading">
@@ -120,4 +120,4 @@ alias rm="rm -i"
     );
 }
 
-export default ZShellSetup;
+export default MyZShellSetup;

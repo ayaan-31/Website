@@ -38,7 +38,7 @@ function Resources() {
 
                 <li className="list-date">January 21, 2023</li>
                 {/* TODO: look at how to append "zshell-setup" to the current path instead of hard-coding */}
-                <li className="list-title"><a href="/#/resources/zshell-setup">My Z Shell Setup</a></li>
+                <li className="list-title"><a href="/#/resources/my-zshell-setup">My Z Shell Setup</a></li>
 
                 <li className="list-date">January 16, 2023</li>
                 {/* TODO: look at how to append "books-read" to the current path instead of hard-coding */}
