@@ -1,6 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
-import { Code, CodeBlock } from "react-code-blocks";
+import { CodeBlock } from "react-code-blocks";
 import "./ZShellSetup.css";
 
 function ZShellSetup() {
