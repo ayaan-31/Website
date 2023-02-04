@@ -28,6 +28,16 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v23.1.4</p>
+                <ul>
+                    <li>Added a page for the Time Travel Bug.</li>
+                    <li>Updated resume with CMake bullet-point and typo fix.</li>
+                    <li>Typo fixes.</li>
+                </ul>
+            </div>
+
+
+            <div>
                 <p className="version">v23.1.3</p>
                 <ul>
                     <li>Added a page for my .zshrc file.</li>
