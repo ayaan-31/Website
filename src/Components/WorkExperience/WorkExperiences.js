@@ -13,9 +13,8 @@ function WorkExperiences() {
                 description={[
                     "Spearheading development of the next-generation Raven Operating Software (ROS) in an Agile team of 7 using Qt and C++.",
                     "Specifying, architecting, prototyping, developing, and testing applications while consistently following best practices.",
-                    "Leading the enhancement of a file conversion library to create JSON, CSV, and XML files from a proprietary file format.",
+                    "Leading the enhancement of a file conversion library to create JSON, CSV, and XML files from a proprietary file format",
                     "Collaborating with the team to convert ROS to use CMake instead of qmake as the build system.",
-                    "Utilizing Google Test (gtest) to write unit tests ensuring my code meets the quality standards.",
                     "Debugging ROS with gdb-multiarch, analyzing application and system logs, and documenting code using Doxygen."
                 ]}
             />
@@ -25,9 +24,9 @@ function WorkExperiences() {
                 company="Raven Industries, Inc."
                 date="Sep 2021 - May 2022"
                 description={[
-                    "Developed a highly-requested feature for the Field Computer product line using Qt and C++ in an Agile environment.",
                     "Implemented on-device creation of geospatial vector data format shapefiles for the multiline feature in Raven Operating Software.",
-                    "Improved the multiline feature to make it more user-friendly and easier to discover enabling farmers to do the same tasks in 60% less time."
+                    "Developed this highly-requested feature for the Field Computer product line using Qt and C++ in an Agile environment.",
+                    "Improved the multiline feature to make it more user-friendly and easier to discover enabling farmers to save 60% of their time."
                 ]}
             />
 
@@ -36,9 +35,9 @@ function WorkExperiences() {
                 company="Raven Industries, Inc."
                 date="May 2021 - Aug 2021"
                 description={[
-                    "Collaborated in an Agile team of 8 to implement single sign-on for all 4 customer-facing apps for a secure user-authorization process.",
+                    "Collaborated in an Agile team of 8 to implement single sign - on for all 4 customer-facing apps for a secure user-authorization process.",
                     "Undertook displaying telemetry and generating alerts with Grafana to monitor load and throughput of critical services more closely.",
-                    "Streamlined infrastructure with Terraform, reduced moving parts, refactored code, restructured repositories and improved documentation."
+                    "Streamlined infrastructure with Terraform, reduced moving parts, refactored code, and improved documentation."
                 ]}
             />
 
