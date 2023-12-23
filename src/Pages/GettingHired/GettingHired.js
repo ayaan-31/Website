@@ -19,7 +19,7 @@ function GettingHired() {
                     improving my resume, learning how to prepare for behavioral
                     interviews, tips-and-tricks to ace those interviews, and general
                     advice to get myself hired.
-                    It have learned from these studies, experts, and recruiters.
+                    I have learned from these studies, experts, and recruiters.
                     I hope you find them beneficial as well.
                 </p>
 
