@@ -28,6 +28,17 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v23.4.0</p>
+                <ul>
+                    <li>Added the books I read in 2023.</li>
+                    <li>Updated the resume PDF and the info on the "Resume" tab.</li>
+                    <li>Remove "What's Coming" section from the Home page.</li>
+                    <li>Made the Helmet Titles shorter.</li>
+                    <li>More typo fixes. Will these ever end?</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v23.1.4</p>
                 <ul>
                     <li>Added a page for the Time Travel Bug.</li>
