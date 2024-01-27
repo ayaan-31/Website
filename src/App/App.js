@@ -3,7 +3,9 @@ import Home from '../Pages/Home/Home.js';
 import Resume from '../Pages/Resume/Resume.js';
 import Writings from '../Pages/Writings/Writings.js';
 import GettingHired from '../Pages/GettingHired/GettingHired.js';
-import BooksRead from '../Pages/BooksRead/BooksRead.js';
+import BooksRead2021 from '../Pages/BooksRead/BooksRead2021.js';
+import BooksRead2022 from '../Pages/BooksRead/BooksRead2022.js';
+import BooksRead2023 from '../Pages/BooksRead/BooksRead2023.js';
 import MyZShellSetup from '../Pages/MyZShellSetup/MyZShellSetup.js';
 import TimeTravelBugs from '../Pages/TimeTravelBugs/TimeTravelBugs.js';
 import ReleaseNotes from '../Pages/ReleaseNotes/ReleaseNotes.js';
@@ -23,7 +25,9 @@ function App() {
         <Route exact path='/writings' element={<Writings />}></Route>
         <Route exact path='/release-notes' element={<ReleaseNotes />}></Route>
         <Route exact path='/writings/getting-hired' element={<GettingHired />}></Route >
-        <Route exact path='/writings/books-read' element={<BooksRead />}></Route >
+        <Route exact path='/writings/books-read-2021' element={<BooksRead2021 />}></Route >
+        <Route exact path='/writings/books-read-2022' element={<BooksRead2022 />}></Route >
+        <Route exact path='/writings/books-read-2023' element={<BooksRead2023 />}></Route >
         <Route exact path='/writings/my-zshell-setup' element={<MyZShellSetup />}></Route >
         <Route exact path='/writings/time-travel-bugs' element={<TimeTravelBugs />}></Route>
         <Route exact path='*' element={<NotFound />}></Route>

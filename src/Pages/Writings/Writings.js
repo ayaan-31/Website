@@ -32,6 +32,11 @@ function Writings() {
             </blockquote>
 
             <ul className="writings-list">
+                <li className="list-date">January 27, 2024</li>
+                {/* TODO: look at how to append "books-read" to the current path instead of hard-coding */}
+                <li className="list-title"><a href="/#/writings/books-read-2022">Books Read in 2022</a></li>
+                <li className="list-title"><a href="/#/writings/books-read-2023">Books Read in 2023</a></li>
+
                 <li className="list-date">Feb 3, 2023</li>
                 {/* TODO: look at how to append "time-travel-bugs" to the current path instead of hard-coding */}
                 <li className="list-title"><a href="/#/writings/time-travel-bugs">Time Travel Bugs</a></li>
@@ -42,7 +47,7 @@ function Writings() {
 
                 <li className="list-date">January 16, 2023</li>
                 {/* TODO: look at how to append "books-read" to the current path instead of hard-coding */}
-                <li className="list-title"><a href="/#/writings/books-read">Books I Have Read</a></li>
+                <li className="list-title"><a href="/#/writings/books-read-2021">Books Read in 2021</a></li>
 
                 <li className="list-date">January 04, 2023</li>
                 {/* TODO: look at how to append "getting-hired" to the current path instead of hard-coding */}
