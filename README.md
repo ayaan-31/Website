@@ -29,3 +29,8 @@ Rebirth of [personal-website](https://github.com/tahaafzal5/personal-website), w
 - Predeploy: `rm -rf node_modules/.cache/ && npm run build`
 - Deploy to GitHub pages: `gh-pages -d build`
 - Visit [tahaafzal.com](tahaafzal.com)
+
+### Extra
+* To see the app on a mobile phone:
+  * Find your computer's IP address by `ifconfig` (or similar)
+  * Visit `<ip-address>:3000` on your favorite mobile browser
