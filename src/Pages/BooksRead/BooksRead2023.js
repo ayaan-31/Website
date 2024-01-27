@@ -19,7 +19,7 @@ const booksData = [
         imageUrl: tenArguments
     },
     {
-        title: "“Make Something Wonderful: Steve Jobs in his own words",
+        title: "Make Something Wonderful: Steve Jobs in his own words",
         description: "Compiles Jobs’ thoughts into a compelling narrative,\
                     providing a glimpse into his innovative mindset, emphasis on creativity, and passion on excellence.",
         imageUrl: makeWonderful
