@@ -1,9 +1,9 @@
-.resources {
+.writings {
     /* common to all components being shown under the navbar */
     margin: 50px 25px 50px 25px;
 }
 
-.resources-list {
+.writings-list {
     list-style: none;
     width: fit-content;
 }
