@@ -3,12 +3,27 @@
     margin: 0px 25px 50px 25px;
 }
 
-.books-read-list {
-    list-style: none;
-    padding: 0px;
+.books-read-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 30px;
+}
+
+.book-grid-item {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.book-image {
+    width: 150px;
+    height: 200px;
 }
 
 .book-title {
-    margin: 0px 10px 20px 30px;
-    list-style: disc;
+    margin: 20px 10px 20px 0px;
+}
+
+.book-description {
+    margin: 0px 10px 20px 0px;
 }
