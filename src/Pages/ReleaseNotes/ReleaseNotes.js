@@ -28,6 +28,14 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v24.1.1</p>
+                <ul>
+                    <li>Prettified Books Read pages with images.</li>
+                    <li>Added instuctions on how to view the site on another device for development.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v24.1.0</p>
                 <ul>
                     <li>Broke up books read by year.</li>
