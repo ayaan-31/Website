@@ -17,6 +17,7 @@ Rebirth of [personal-website](https://github.com/tahaafzal5/personal-website), w
 ### Build
 - Clone the repo: `git clone git@github.com:tahaafzal5/personal-website-2.0.git`
 - Navigate to the project: `cd personal-website.2.0`
+- `npm install react-scripts --save`
 - Build: `npm run build`
 
 ### Run
