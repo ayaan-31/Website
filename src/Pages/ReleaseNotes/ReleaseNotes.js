@@ -28,6 +28,15 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v24.1.0</p>
+                <ul>
+                    <li>Broke up books read by year.</li>
+                    <li>Resources tab is now called Writings.</li>
+                    <li>Updated README with build instructions.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v23.4.0</p>
                 <ul>
                     <li>Added the books I read in 2023.</li>
