@@ -31,6 +31,7 @@ function ReleaseNotes() {
                 <p className="version">v24.1.2</p>
                 <ul>
                     <li>Removed info about time travel bug.</li>
+                    <li>Added about the Douglas Peucker algorithm implementation.</li>
                 </ul>
             </div>
 
