@@ -28,6 +28,13 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v24.1.2</p>
+                <ul>
+                    <li>Removed info about time travel bug.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v24.1.1</p>
                 <ul>
                     <li>Prettified Books Read pages with images.</li>

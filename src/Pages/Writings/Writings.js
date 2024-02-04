@@ -37,10 +37,6 @@ function Writings() {
                 <li className="list-title"><a href="/#/writings/books-read-2022">Books Read in 2022</a></li>
                 <li className="list-title"><a href="/#/writings/books-read-2023">Books Read in 2023</a></li>
 
-                <li className="list-date">Feb 3, 2023</li>
-                {/* TODO: look at how to append "time-travel-bugs" to the current path instead of hard-coding */}
-                <li className="list-title"><a href="/#/writings/time-travel-bugs">Time Travel Bugs</a></li>
-
                 <li className="list-date">January 21, 2023</li>
                 {/* TODO: look at how to append "zshell-setup" to the current path instead of hard-coding */}
                 <li className="list-title"><a href="/#/writings/my-zshell-setup">My Z Shell Setup</a></li>

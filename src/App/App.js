@@ -7,7 +7,6 @@ import BooksRead2021 from '../Pages/BooksRead/BooksRead2021.js';
 import BooksRead2022 from '../Pages/BooksRead/BooksRead2022.js';
 import BooksRead2023 from '../Pages/BooksRead/BooksRead2023.js';
 import MyZShellSetup from '../Pages/MyZShellSetup/MyZShellSetup.js';
-import TimeTravelBugs from '../Pages/TimeTravelBugs/TimeTravelBugs.js';
 import ReleaseNotes from '../Pages/ReleaseNotes/ReleaseNotes.js';
 import NotFound from '../Pages/NotFound/NotFound.js';
 import Footer from '../Components/Footer/Footer.js';
@@ -29,7 +28,6 @@ function App() {
         <Route exact path='/writings/books-read-2022' element={<BooksRead2022 />}></Route >
         <Route exact path='/writings/books-read-2023' element={<BooksRead2023 />}></Route >
         <Route exact path='/writings/my-zshell-setup' element={<MyZShellSetup />}></Route >
-        <Route exact path='/writings/time-travel-bugs' element={<TimeTravelBugs />}></Route>
         <Route exact path='*' element={<NotFound />}></Route>
       </Routes>
       <Footer />
