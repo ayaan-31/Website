@@ -1,14 +1,14 @@
 import React from "react";
 import Helmet from "react-helmet";
 import "./BooksRead.css";
-import hooked from "../../Assets/Images/hooked.jpg";
-import richPoor from "../../Assets/Images/rich-dad-poor-dad.jpg";
-import theInnovators from "../../Assets/Images/the-innovators.jpg";
-import elonMusk from "../../Assets/Images/elon-musk.jpg";
-import artOfLettingGo from "../../Assets/Images/the-art-of-letting-go.jpg";
-import twoAm from "../../Assets/Images/2am.jpg";
-import anUglyTruth from "../../Assets/Images/an-ugly-truth.jpg";
-import notGivingAFuck from "../../Assets/Images/the-subtle-art-of-not-giving-a-fuck.jpg";
+import hooked from "./hooked.jpg";
+import richPoor from "./rich-dad-poor-dad.jpg";
+import theInnovators from "./the-innovators.jpg";
+import elonMusk from "./elon-musk.jpg";
+import artOfLettingGo from "./the-art-of-letting-go.jpg";
+import twoAm from "./2am.jpg";
+import anUglyTruth from "./an-ugly-truth.jpg";
+import notGivingAFuck from "./the-subtle-art-of-not-giving-a-fuck.jpg";
 
 const booksData = [
     {

@@ -1,16 +1,16 @@
 import React from "react";
 import Helmet from "react-helmet";
 import "./BooksRead.css";
-import weShouldAllBeFeministsImage from "../../Assets/Images/we-should-all-be-feminists.jpg";
-import aQuickAndEasyGuide from "../../Assets/Images/a-quick-and-easy-guide-to-they-them-pronouns.jpg";
-import pheonixProject from "../../Assets/Images/the-pheonix-project.jpg"
-import briefAnswers from "../../Assets/Images/brief-answers-to-the-big-questions.jpg"
-import whatIf from "../../Assets/Images/what-if.jpg"
-import outliers from "../../Assets/Images/outliers.jpg"
-import theSecret from "../../Assets/Images/the-secret.jpg"
-import avoidAClimateDisaster from "../../Assets/Images/how-to-avoid-a-climate-disaster.jpg"
-import structureOfScientificRevolutions from "../../Assets/Images/the-structure-of-scientific-revolutions.jpg"
-import presentationSecrets from "../../Assets/Images/the-presentation-secrets-of-steve-jobs.jpg"
+import weShouldAllBeFeministsImage from "./we-should-all-be-feminists.jpg";
+import aQuickAndEasyGuide from "./a-quick-and-easy-guide-to-they-them-pronouns.jpg";
+import pheonixProject from "./the-pheonix-project.jpg"
+import briefAnswers from "./brief-answers-to-the-big-questions.jpg"
+import whatIf from "./what-if.jpg"
+import outliers from "./outliers.jpg"
+import theSecret from "./the-secret.jpg"
+import avoidAClimateDisaster from "./how-to-avoid-a-climate-disaster.jpg"
+import structureOfScientificRevolutions from "./the-structure-of-scientific-revolutions.jpg"
+import presentationSecrets from "./the-presentation-secrets-of-steve-jobs.jpg"
 
 const booksData = [
     {

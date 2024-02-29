@@ -1,16 +1,16 @@
 import React from "react";
 import Helmet from "react-helmet";
 import "./BooksRead.css";
-import tenArguments from "../../Assets/Images/ten-arguments.jpg";
-import makeWonderful from "../../Assets/Images/make-something-wonderful.png";
-import contentDelivery from "../../Assets/Images/a-corporative-approach-to-content-delivery.png";
-import bornACrime from "../../Assets/Images/born-a-crime.jpg";
-import thinkingClearly from "../../Assets/Images/the-art-of-thinking-clearly.jpg";
-import refactoring from "../../Assets/Images/refactoring.jpg";
-import scrum from "../../Assets/Images/scrum.jpg";
-import myBrother from "../../Assets/Images/my-brother.jpg";
-import automatePython from "../../Assets/Images/automate-the-boring-stuff-with-python.jpg";
-import reluctantFundamentalist from "../../Assets/Images/the-reluctant-fundamentalist.jpg";
+import tenArguments from "./ten-arguments.jpg";
+import makeWonderful from "./make-something-wonderful.png";
+import contentDelivery from "./a-corporative-approach-to-content-delivery.png";
+import bornACrime from "./born-a-crime.jpg";
+import thinkingClearly from "./the-art-of-thinking-clearly.jpg";
+import refactoring from "./refactoring.jpg";
+import scrum from "./scrum.jpg";
+import myBrother from "./my-brother.jpg";
+import automatePython from "./automate-the-boring-stuff-with-python.jpg";
+import reluctantFundamentalist from "./the-reluctant-fundamentalist.jpg";
 
 const booksData = [
     {

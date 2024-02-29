@@ -1,7 +1,7 @@
 import React from "react";
 import Helmet from "react-helmet";
-import DouglasInput from "../../Assets/Images/douglas-peucker-01.png";
-import DouglasOutput from "../../Assets/Images/douglas-peucker-02.png"
+import DouglasInput from "./douglas-peucker-01.png";
+import DouglasOutput from "./douglas-peucker-02.png"
 import "./DouglasPeucker.css";
 
 function DouglasPeucker() {

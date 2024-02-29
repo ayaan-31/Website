@@ -62,22 +62,7 @@ right-side won't wrap properly based on screen size with more than 2 columns */
     margin: 0px 10px 0px 0px;
 }
 
-/* doing this in a media query to avoid messing things up on devices without actual hover (e.g. mobile phones) */
 @media (hover: hover) {
-    .github-logo:hover {
-        content: url(../../Assets/Images/github-logo-hover.jpg);
-        transform: scale(1.1);
-    }
-
-    .linkedin-logo:hover {
-        content: url(../../Assets/Images/linkedin-logo-hover.jpg);
-        transform: scale(1.1);
-    }
-
-    .download-logo:hover {
-        content: url(../../Assets/Images/download-logo-hover.jpg);
-        transform: scale(1.1);
-    }
 
     .email:hover,
     .phone:hover,
