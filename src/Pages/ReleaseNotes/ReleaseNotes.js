@@ -28,6 +28,14 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v24.1.3</p>
+                <ul>
+                    <li>Added writing about my experience with the Apple Vision Pro.</li>
+                    <li>Moved assets (files, images, videos) in the relevant Pages and Components directories.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v24.1.2</p>
                 <ul>
                     <li>Removed info about time travel bug.</li>
