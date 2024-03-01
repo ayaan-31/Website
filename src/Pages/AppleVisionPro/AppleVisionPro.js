@@ -139,7 +139,6 @@ function AppleVisionPro() {
                 <li>For now, more than one person can't be in the same space physically or virtually to look at the same content in their space.</li>
                 <li>Eye Sight - a digital representation of your eyes on the external display of the Vision Pro for people around you - is blurry and very faint.</li>
                 <li>There's a lot of potential for this device to learn, create, entertain, and interact. I can't wait see the improvements Apple will make in the coming years!</li>
-                <li></li>
             </ul>
 
             <h3>Want to learn more?</h3>
