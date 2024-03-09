@@ -26,7 +26,7 @@ Rebirth of [personal-website](https://github.com/tahaafzal5/personal-website), w
 
 ### Deploy
 - Make sure you are on the `main` branch
-- Predeploy: `rm -rf node_modules/.cache/ && npm run build`
+- Pre-deploy: `rm -rf node_modules/.cache/ && npm run build`
 - Deploy to GitHub pages: `gh-pages -d build`
 - Visit [tahaafzal.com](tahaafzal.com)
 

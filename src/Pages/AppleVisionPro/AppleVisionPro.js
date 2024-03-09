@@ -2,7 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import Persona from "./persona.jpeg";
 import Game from "./Game.mp4";
-import SteveJobstheater from "./SteveJobsThreatre.mp4";
+import SteveJobsTheater from "./SteveJobsTheatre.mp4";
 import Viva3DAppStore from "./viva3d-apple-store.PNG";
 import Viva3D from "./Viva3D.mp4";
 import ConferenceRoom from "./conference-room.PNG";
@@ -108,7 +108,7 @@ function AppleVisionPro() {
             </p>
             <img src={ConferenceRoom} alt="Conference Room" className="media" />
             <video controls className="media">
-                <source src={SteveJobstheater} type="video/mp4" />
+                <source src={SteveJobsTheater} type="video/mp4" />
             </video>
 
             <h3>App Store</h3>
