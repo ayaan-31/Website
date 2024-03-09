@@ -39,7 +39,7 @@ function AppleVisionPro() {
             <h3>Productivity</h3>
             <p>
                 Apple markets the Vision Pro as a productivity device. With Environments, you can transport yourself to places like Yosemite, Mount Hood, or the Moon and have multiple
-                windows in front of you to work. This means you can extent your small room into an infinite canvas.
+                windows in front of you to work. This means you can extend your small room into an infinite canvas.
             </p>
             <p>
                 With a strong ecosystem of other Apple devices, you can easily mirror your Mac's screen and drag and drop content between apps running on your Mac and those running on the
@@ -113,8 +113,8 @@ function AppleVisionPro() {
 
             <h3>App Store</h3>
             <p>
-                Making my own visionOS app and releasing on the App Store it was quick and easy. You can do everything with SwiftUI and with some knowledge about RealityKit and
-                UI Kit, you can create almost anything you want. Resources online are limited right now, but Apple has done a great job with their documentation, demo apps, and WWDC sessions.
+                Making my own visionOS app and releasing it on the App Store it was quick and easy. You can do everything with SwiftUI and with some knowledge about RealityKit and
+                UIKit, you can create almost anything you want. Resources online are limited right now, but Apple has done a great job with their documentation, demo apps, and WWDC sessions.
             </p>
             <p>
                 Not to mention, Apple takes care of giving your app windows the glass effect, casting shadows, and forwarding the user eye and hand data so everything "just works."
@@ -138,7 +138,7 @@ function AppleVisionPro() {
                 <li>Carrying the battery pack around with you might be messy and if you're doing an activity that involves walking around, the cord might get in the way.</li>
                 <li>For now, more than one person can't be in the same space physically or virtually to look at the same content in their space.</li>
                 <li>Eye Sight - a digital representation of your eyes on the external display of the Vision Pro for people around you - is blurry and very faint.</li>
-                <li>There's a lot of potential for this device to learn, create, entertain, and interact. I can't wait see the improvements Apple will make in the coming years!</li>
+                <li>There's a lot of potential for this device to learn, create, entertain, and interact. I can't wait to see the improvements Apple will make in the coming years!</li>
             </ul>
 
             <h3>Want to learn more?</h3>

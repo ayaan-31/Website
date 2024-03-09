@@ -28,6 +28,13 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v24.1.4</p>
+                <ul>
+                    <li>Fixed typos in the Apple Vision Pro writing.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v24.1.3</p>
                 <ul>
                     <li>Added writing about my experience with the Apple Vision Pro.</li>
