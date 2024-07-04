@@ -26,17 +26,6 @@ function Projects() {
                     "Won $9,000 along with an invitation to work with engineers at Sanford Health for further research and development of the project."
                 ]}
             />
-
-            <Project
-                project="Apple Beta Software Program"
-                role="Volunteer"
-                date="Jun 2020 - Sep 2020"
-                description={[
-                    "Developed a ride-sharing iOS app for college campuses over 6-weeks to serve as a communal and sustainable way for long-distance travel.",
-                    "Collaborated remotely in a team of 4 to develop the app utilizing AWS, MapKit, SwiftUI, and Parse.",
-                    "Focused on the UI and practicality of the app to secure 2nd position in CodePath's Demo Day and SF Student Showcase."
-                ]}
-            />
         </section>
     );
 }
