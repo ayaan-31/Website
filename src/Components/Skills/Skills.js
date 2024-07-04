@@ -7,19 +7,20 @@ function Skills() {
             <ul className="skills-points">
                 <li>Java</li>
                 <li>C++</li>
-                <li>Qt</li>
-                <li>QML</li>
-                <li>SQL</li>
-                <li>Git</li>
-                <li>AWS</li>
-                <li>R</li>
-                <li>Bash</li>
+                <li>Rust</li>
                 <li>Swift</li>
                 <li>Python</li>
-                <li>Docker</li>
-                <li>Terraform</li>
-                <li>ReactJS</li>
                 <li>JavaScript</li>
+                <li>SQL</li>
+                <li>Bash</li>
+                <li>ReactJS</li>
+                <li>Qt</li>
+                <li>QML</li>
+                <li>Terraform</li>
+                <li>AWS</li>
+                <li>Docker</li>
+                <li>Git</li>
+                <li>R</li>
             </ul>
         </section>
     );
