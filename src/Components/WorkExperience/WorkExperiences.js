@@ -11,11 +11,11 @@ function WorkExperiences() {
                 company="Raven Industries, Inc."
                 date="May 2022 - Present"
                 description={[
-                    "Spearheading development of the next-generation Raven Operating Software (ROS) in an Agile team of 7 using Qt and C++.",
+                    "Spearheading the development of the Raven's Viper 4+ embedded system software in an Agile team, utilizing Qt and C++.",
                     "Specifying, architecting, prototyping, developing, and testing applications while consistently following best practices.",
                     "Leading the enhancement of a file conversion library to create JSON, CSV, and XML files from a proprietary file format",
-                    "Collaborating with the team to convert ROS to use CMake instead of qmake as the build system.",
-                    "Debugging ROS with gdb-multiarch, analyzing application and system logs, and documenting code using Doxygen."
+                    "Collaborating with the team to transition the Viper 4+ build system from qmake to CMake, improving build efficiency and maintainability.",
+                    "Debugging the Viper 4+ system software using gdb-multiarch, analyzing embedded system logs, and documenting code with Doxygen."
                 ]}
             />
 
