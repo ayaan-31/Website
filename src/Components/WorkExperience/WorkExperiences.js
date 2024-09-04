@@ -13,8 +13,8 @@ function WorkExperiences() {
                 description={[
                     "Spearheading the development of the Raven's Viper 4+ embedded system software in an Agile team, utilizing Qt and C++.",
                     "Specifying, architecting, prototyping, developing, and testing applications while consistently following best practices.",
-                    "Leading the enhancement of a file conversion library to create JSON, CSV, and XML files from a proprietary file format",
-                    "Collaborating with the team to transition the Viper 4+ build system from qmake to CMake, improving build efficiency and maintainability.",
+                    "Enhancing a file conversion library expanding support to JSON, CSV, and XML formats, ensuring 100% error-free conversions.",
+                    "Collaborating with the team to transition the Viper 4+ build system from qmake to CMake, reducing build times by 25%.",
                     "Debugging the Viper 4+ system software using gdb-multiarch, analyzing embedded system logs, and documenting code with Doxygen."
                 ]}
             />
