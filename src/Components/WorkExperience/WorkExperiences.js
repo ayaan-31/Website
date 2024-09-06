@@ -12,10 +12,11 @@ function WorkExperiences() {
                 date="May 2022 - Present"
                 description={[
                     "Spearheading the development of the Raven's Viper 4+ embedded system software in an Agile team, utilizing Qt and C++.",
-                    "Specifying, architecting, prototyping, developing, and testing applications while consistently following best practices.",
                     "Enhancing a file conversion library expanding support to JSON, CSV, and XML formats, ensuring 100% error-free conversions.",
                     "Collaborating with the team to transition the Viper 4+ build system from qmake to CMake, reducing build times by 25%.",
-                    "Debugging the multi-threaded software using gdb-multiarch, analyzing embedded system logs, and documenting code with Doxygen."
+                    "Debugging the multi-threaded software using gdb-multiarch, analyzing embedded system logs, and documenting code with Doxygen.",
+                    "Specifying, architecting, prototyping, developing, and testing applications while consistently following best practices.",
+                    "Improving release cycles by implementing and maintaining CI/CD pipelines using GitLab CI, automating build, test, and release workflows.",
                 ]}
             />
 
