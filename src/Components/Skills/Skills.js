@@ -5,11 +5,10 @@ function Skills() {
         <section className="skills">
             Skills
             <ul className="skills-points">
-                <li>Java</li>
                 <li>C++</li>
+                <li>Python</li>
                 <li>Rust</li>
                 <li>Swift</li>
-                <li>Python</li>
                 <li>JavaScript</li>
                 <li>SQL</li>
                 <li>Bash</li>
@@ -20,7 +19,7 @@ function Skills() {
                 <li>AWS</li>
                 <li>Docker</li>
                 <li>Git</li>
-                <li>R</li>
+                <li>Java</li>
             </ul>
         </section>
     );
