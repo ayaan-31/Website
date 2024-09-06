@@ -15,7 +15,7 @@ function WorkExperiences() {
                     "Specifying, architecting, prototyping, developing, and testing applications while consistently following best practices.",
                     "Enhancing a file conversion library expanding support to JSON, CSV, and XML formats, ensuring 100% error-free conversions.",
                     "Collaborating with the team to transition the Viper 4+ build system from qmake to CMake, reducing build times by 25%.",
-                    "Debugging the Viper 4+ system software using gdb-multiarch, analyzing embedded system logs, and documenting code with Doxygen."
+                    "Debugging the multi-threaded software using gdb-multiarch, analyzing embedded system logs, and documenting code with Doxygen."
                 ]}
             />
 
