@@ -11,7 +11,7 @@ function WorkExperiences() {
                 company="Raven Industries, Inc."
                 date="May 2022 - Present"
                 description={[
-                    "Spearheading the development of the Raven's Viper 4+ embedded system software in an Agile team, utilizing Qt and C++.",
+                    "Spearheading the development of Viper 4+'s embedded system software in an Agile environment, utilizing Qt and C++.",
                     "Enhancing a file conversion library expanding support to JSON, CSV, and XML formats, ensuring 100% error-free conversions.",
                     "Collaborating with the team to transition the Viper 4+ build system from qmake to CMake, reducing build times by 25%.",
                     "Debugging the multi-threaded software using gdb-multiarch, analyzing embedded system logs, and documenting code with Doxygen.",
