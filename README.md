@@ -28,7 +28,7 @@ Rebirth of [personal-website](https://github.com/tahaafzal5/personal-website), w
 - Make sure you are on the `main` branch
 - Pre-deploy: `rm -rf node_modules/.cache/ && npm run build`
 - Deploy to GitHub pages: `gh-pages -d build`
-- Visit [tahaafzal.com](tahaafzal.com)
+- Visit [tahaafzal.com](https://tahaafzal.com)
 
 ### Extra
 * To see the app on a mobile phone:
