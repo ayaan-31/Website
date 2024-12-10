@@ -7,16 +7,25 @@ function WorkExperiences() {
             <h1 className="heading">WORK EXPERIENCE</h1>
 
             <WorkExperience
-                position="Software Engineer"
-                company="Raven Industries, Inc."
-                date="May 2022 - Present"
+                position="Software Engineer II"
+                company="CNH"
+                date="Dec 2024 - Present"
                 description={[
                     "Spearheading the development of Viper 4+'s embedded system software in an Agile environment, utilizing Qt and C++.",
-                    "Enhancing a file conversion library expanding support to JSON, CSV, and XML formats, ensuring 100% error-free conversions.",
-                    "Collaborating with the team to transition the Viper 4+ build system from qmake to CMake, reducing build times by 25%.",
-                    "Debugging the multi-threaded software using gdb-multiarch, analyzing embedded system logs, and documenting code with Doxygen.",
-                    "Specifying, architecting, prototyping, developing, and testing applications while consistently following best practices.",
-                    "Improving release cycles by implementing and maintaining CI/CD pipelines using GitLab CI, automating build, test, and release workflows.",
+                    "Debugging multi-threaded software using gdb-multiarch, analyzing system logs, and documenting code with Doxygen.",
+                    "Improving release cycles by implementing and maintaining CI/CD pipelines, automating build, test, and release workflows."
+                ]}
+            />
+
+            <WorkExperience
+                position="Software Engineer"
+                company="CNH"
+                date="May 2022 - Nov 2024"
+                description={[
+                    "Collaborated with the team to transition the Viper 4+ build system from qmake to CMake, reducing build times by 25%.",
+                    "Implemented features to create field boundaries, ensuring efficient chemical usage and preventing accidental sprays in waterways.",
+                    "Enhanced a file conversion library, expanding support to JSON, CSV, and XML formats, ensuring 100% error-free conversions.",
+                    "Mentored an intern in implementing the Delta-T quality measurement system to assess spray effectiveness based on weather conditions."
                 ]}
             />
 
