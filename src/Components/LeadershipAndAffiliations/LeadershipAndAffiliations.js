@@ -7,6 +7,16 @@ function LeadershipAndAffiliations() {
             <h1 className="heading">LEADERSHIP AND AFFILIATIONS</h1>
 
             <LeadershipOrAffiliation
+                organization="Augustana University"
+                role="Trustee"
+                date="Dec 2024 - Present"
+                description={[
+                    "Serving as a trustee on the Board of Trustees at Augustana, focusing on the well-being of faculty, students, and staff.",
+                    "Strengthening the Computer Science program, advancing international education, and driving entrepreneurial initiatives on campus."
+                ]}
+            />
+
+            <LeadershipOrAffiliation
                 organization="UnderDog Devs"
                 role="Mentor"
                 date="Dec 2023 - Present"
