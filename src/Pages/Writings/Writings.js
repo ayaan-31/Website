@@ -32,6 +32,10 @@ function Writings() {
             </blockquote>
 
             <ul className="writings-list">
+                <li className="list-date">January 4, 2025</li>
+                {/* TODO: look at how to append path to the current path instead of hard-coding */}
+                <li className="list-title"><a href="/#/writings/books-read-2024">Books Read in 2024</a></li>
+
                 <li className="list-date">February 28, 2024</li>
                 {/* TODO: look at how to append path to the current path instead of hard-coding */}
                 <li className="list-title"><a href="/#/writings/apple-vision-pro">Apple Vision Pro</a></li>
