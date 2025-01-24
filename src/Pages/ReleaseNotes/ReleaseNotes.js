@@ -28,7 +28,14 @@ function ReleaseNotes() {
             </ul>
 
             <div>
-                <p className="version">v25.0.0</p>
+                <p className="version">v25.1.1</p>
+                <ul>
+                    <li>Updated resume to add results in the current role.</li>
+                </ul>
+            </div>
+
+            <div>
+                <p className="version">v25.1.0</p>
                 <ul>
                     <li>Added the books I read in 2024.</li>
                 </ul>
