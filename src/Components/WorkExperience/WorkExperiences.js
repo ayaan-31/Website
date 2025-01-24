@@ -13,7 +13,7 @@ function WorkExperiences() {
                 description={[
                     "Spearheading the development of Viper 4+'s embedded system software in an Agile environment, utilizing Qt and C++.",
                     "Debugging multi-threaded software using gdb-multiarch, analyzing system logs, and documenting code with Doxygen.",
-                    "Improving release cycles by 25% by implementing and maintaining CI/CD pipelines, automating build, test, and release workflows."
+                    "Improving release cycles by 20% by implementing and maintaining CI/CD pipelines, automating build, test, and release workflows."
                 ]}
             />
 
