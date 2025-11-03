@@ -67,7 +67,7 @@ function WorkExperiences() {
                 company="Spidreye"
                 date="Feb 2020 - Jun 2020"
                 description={[
-                    "Led an Agile team of 4 to design, develop, deploy, and test a property-review website that gained 75+ users in the first month after launch.",
+                    "Developed, deployed, and tested a property-review website that gained 75+ users in the first month after launch in a team of 4.",
                     "Implemented Google Maps API to support location autocompletion when a user is searching for properties for faster results.",
                     "Utilized Firebase Authentication for user profiles and sending automated welcome emails through Mailchimp."
                 ]}
