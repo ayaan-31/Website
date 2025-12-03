@@ -28,6 +28,13 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v25.4.1</p>
+                <ul>
+                    <li>Updated resume to add masters education.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v25.4.0</p>
                 <ul>
                     <li>Updated resume to remove "led" from intern role.</li>
