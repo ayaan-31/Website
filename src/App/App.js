@@ -7,6 +7,7 @@ import BooksRead2021 from '../Pages/BooksRead/BooksRead2021.js';
 import BooksRead2022 from '../Pages/BooksRead/BooksRead2022.js';
 import BooksRead2023 from '../Pages/BooksRead/BooksRead2023.js';
 import BooksRead2024 from '../Pages/BooksRead/BooksRead2024.js';
+import BooksRead2025 from '../Pages/BooksRead/BooksRead2025.js';
 import MyZShellSetup from '../Pages/MyZShellSetup/MyZShellSetup.js';
 import ReleaseNotes from '../Pages/ReleaseNotes/ReleaseNotes.js';
 import DouglasPeucker from '../Pages/DouglasPeucker/DouglasPeucker.js';
@@ -31,6 +32,7 @@ function App() {
         <Route exact path='/writings/books-read-2022' element={<BooksRead2022 />}></Route >
         <Route exact path='/writings/books-read-2023' element={<BooksRead2023 />}></Route >
         <Route exact path='/writings/books-read-2024' element={<BooksRead2024 />}></Route >
+        <Route exact path='/writings/books-read-2025' element={<BooksRead2025 />}></Route >
         <Route exact path='/writings/my-zshell-setup' element={<MyZShellSetup />}></Route >
         <Route exact path='/writings/douglas-peucker' element={<DouglasPeucker />}></Route >
         <Route exact path='/writings/apple-vision-pro' element={<AppleVisionPro />}></Route>
