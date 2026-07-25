@@ -7,9 +7,8 @@ function Navbar() {
 
     return (
         <section className="navbar">
-            <Link className={location.pathname === "/" || location.pathname === "/home" ? "navbar-link-selected" : "navbar-link"} to="/">Home</Link>
+            <Link className={location.pathname === "/" || location.pathname === "/portfolio" ? "navbar-link-selected" : "navbar-link"} to="/">Portfolio</Link>
             <Link className={location.pathname === "/resume" ? "navbar-link-selected" : "navbar-link"} to="/resume">Resume</Link>
-            <Link className={location.pathname === "/writings" ? "navbar-link-selected" : "navbar-link"} to="/writings">Writings</Link>
         </section >
     );
 }

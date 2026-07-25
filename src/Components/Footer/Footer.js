@@ -4,7 +4,7 @@ import "./Footer.css";
 function Footer() {
     return (
         <footer className="footer">
-            Copyright © 2022 Taha Afzal. All rights reserved.
+            Copyright © 2022 Muhammad Ayaan Afzal. All rights reserved.
         </footer>
     );
 }

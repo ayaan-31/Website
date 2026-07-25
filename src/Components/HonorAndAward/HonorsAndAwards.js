@@ -6,11 +6,8 @@ function HonorsAndAwards() {
             <h1 className="heading">HONORS AND AWARDS</h1>
 
             <ul className="honor-or-award-points">
-                {/* BUG: Couldn't further modularize this because of how I want the <li> items to be arranged in columns */}
-                <li>Global Leader Scholar</li>
-                <li>Slate Ronning International Scholar</li>
-                <li>Fred C. and J. Marie Christopherson Scholar</li>
-                <li>AURAFA Award Recipient</li>
+                <li>Editor's Choice Article, Machines (MDPI) — for "A Review on In-Situ Monitoring in Wire Arc Additive Manufacturing: Technologies, Applications, Challenges, and Needs"</li>
+                <li>First Place, American Welding Society (AWS) Poster Competition (Undergraduate, B.S. Engineering) — 1st out of 25 student entries, $750 award</li>
             </ul>
         </section>
     );

@@ -6,17 +6,14 @@ function About() {
             About
 
             <p className="about-text">
-                Passionate for software with a simple design, high impact, and attention-to-detail.
+                Mechanical engineering student in the Honors program at Iowa State University.
             </p>
             <p className="about-text">
-                Advocate for using technology to improve lives. Up-to-date with tech news.
+                Passionate about manufacturing and design, with hands-on experience across CAD modeling,
+                DFM/DFA, and prototyping.
             </p>
             <p className="about-text">
-                Curious. Dedicated. Team-player. Apple fan .
-            </p>
-            <p className="about-text">
-                Favorite YouTube Channel: <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer">Computerphile
-                    &#8594;</a>
+                Curious. Dedicated. Team-player.
             </p>
         </section>
     );

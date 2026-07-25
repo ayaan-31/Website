@@ -6,16 +6,10 @@ function Educations() {
         <section className="educations">
             <h1 className="heading">EDUCATION</h1>
             <Education
-                degree="M.S. Computer Science"
-                institution="Georgia Institute of Technology"
-                date="Jan 2026 - Present"
-            />
-
-            <Education
-                degree="B.A. Computer Science and Software Engineering"
-                institution="Augustana University"
-                date="Aug 2018 - May 2022"
-                gpa="GPA: 3.75"
+                degree="B.S. Mechanical Engineering (Honors)"
+                institution="Iowa State University"
+                date="Expected May 2028"
+                gpa="GPA: 3.86/4.0"
             />
         </section>
     );

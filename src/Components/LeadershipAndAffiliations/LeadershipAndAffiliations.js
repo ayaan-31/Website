@@ -7,57 +7,48 @@ function LeadershipAndAffiliations() {
             <h1 className="heading">LEADERSHIP AND AFFILIATIONS</h1>
 
             <LeadershipOrAffiliation
-                organization="Augustana University"
-                role="Trustee"
-                date="Dec 2024 - Present"
+                organization="Pakistan Student Association, Iowa State University"
+                role="Vice President"
+                date="Sep 2025 - Present"
                 description={[
-                    "Serving as a trustee on the Board of Trustees at Augustana, focusing on the well-being of faculty, students, and staff.",
-                    "Strengthening the Computer Science program, advancing international education, and driving entrepreneurial initiatives on campus."
+                    "Plan and host cultural, social, and academic events for 150 students.",
+                    "Coordinate communication across members, the executive team, and administration.",
+                    "Launch initiatives to raise involvement and foster an inclusive campus."
                 ]}
             />
 
             <LeadershipOrAffiliation
-                organization="UnderDog Devs"
-                role="Mentor"
-                date="Dec 2023 - Present"
+                organization="Pakistan Student Association, Iowa State University"
+                role="Treasurer"
+                date="Sep 2024 - Aug 2025"
                 description={[
-                    "Serving as a mentor to aspiring developers who are either formerly incarcerated or from an economically disadvantaged background.",
-                    "Conducting weekly meetings with mentees to offer coding practice, interview preparation, resume analysis, and encouragement."
+                    "Managed a $1,000 budget and event funding with 4 executive members.",
+                    "Maintained financial records in compliance with university policy."
                 ]}
             />
 
             <LeadershipOrAffiliation
-                organization="Office of Diversity and Inclusion"
-                role="Diversity Peer Mentor"
-                date="May 2020 - Aug 2021"
+                organization="Birch Hall Cabinet, Iowa State University"
+                role="President"
+                date="Sep 2024 - May 2025"
                 description={[
-                    "Facilitated 10+ educational programs to increase academic, social, and professional opportunities for underrepresented students.",
-                    "Increased studentsʼ awareness and cultural competency through 1-on-1 mentorship.",
-                ]}
-            />
-
-
-            <LeadershipOrAffiliation
-                organization="Apple Beta Software Program"
-                role="Volunteer"
-                date="Jun 2020 - Sep 2020"
-                description={[
-                    "Developed a ride-sharing iOS app for college campuses over 6-weeks to serve as a communal and sustainable way for long-distance travel.",
-                    "Collaborated remotely in a team of 4 to develop the app utilizing AWS, MapKit, SwiftUI, and Parse.",
-                    "Focused on the UI and practicality of the app to secure 2nd position in CodePath's Demo Day and SF Student Showcase."
+                    "Headed a 5-member team organizing community initiatives for Birch Hall.",
+                    "Invested $600 in funded initiatives to boost resident engagement.",
+                    "Facilitated communication between residents and dorm administration."
                 ]}
             />
 
             <LeadershipOrAffiliation
-                organization="Hult Prize"
-                role="Campus Director"
-                date="Oct 2019 - Aug 2021"
+                organization="Ray of Hope"
+                role="Co-founder and Vice President"
+                date="Oct 2015 - Present"
                 description={[
-                    "Worked with students of Augustana and members of the community to provide a platform for the launch of 3 sustainable businesses.",
-                    "Achieved a 250% increment in the participation with Augustana's team placing in the top 6 in the U.S. from 5000+ teams.",
+                    "Co-founded and serve as VP of this poverty-alleviation nonprofit.",
+                    "Empowered 500+ underprivileged households through joint initiatives.",
+                    "Impacted 2,000+ lives directly."
                 ]}
             />
-        </section >
+        </section>
     );
 }
 

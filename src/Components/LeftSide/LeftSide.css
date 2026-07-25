@@ -5,6 +5,7 @@
 .work-experiences,
 .educations,
 .honors-and-awards,
+.publications,
 .personal-projects,
 .leadership-and-affiliations {
     margin: 50px 0px 0px 0px;
@@ -16,6 +17,7 @@
 
 .work-experience,
 .education,
+.publication,
 .personal-project,
 .leadership-or-affiliation {
     margin: 0px 0px 50px 0px;
@@ -56,13 +58,28 @@
     line-height: 1.5;
 }
 
+.publication-link {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    color: #1a73e8;
+    text-decoration: none;
+    margin-top: 8px;
+}
+
+.publication-link:hover {
+    text-decoration: underline;
+}
+
 .honor-or-award-points {
-    column-count: 2;
+    column-count: 1;
     margin-right: 10px;
 }
 
-@media screen and (max-width: 1160px) {
-    .honor-or-award-points {
-        column-count: 1;
-    }
+.honor-or-award-points li {
+    margin-bottom: 10px;
+}
+
+.honor-or-award-points li:last-child {
+    margin-bottom: 0px;
 }

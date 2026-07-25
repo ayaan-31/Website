@@ -1,6 +1,6 @@
 # personal-website-2.0
 
-Rebirth of [personal-website](https://github.com/tahaafzal5/personal-website), which was written only in HTML and CSS. The code was also very messy and not very scalable. Was just a weekend project. personal-website-2.0 addresses all these issues.
+Personal website and portfolio, built to be clean, scalable, and easy to maintain.
 
 ## Project Structure
 - `src/`
@@ -15,7 +15,7 @@ Rebirth of [personal-website](https://github.com/tahaafzal5/personal-website), w
 ## Usage
 
 ### Build
-- Clone the repo: `git clone git@github.com:tahaafzal5/personal-website-2.0.git`
+- Clone the repo
 - Navigate to the project: `cd personal-website.2.0`
 - `npm install react-scripts --save`
 - Build: `npm run build`
@@ -28,7 +28,6 @@ Rebirth of [personal-website](https://github.com/tahaafzal5/personal-website), w
 - Make sure you are on the `main` branch
 - Pre-deploy: `rm -rf node_modules/.cache/ && npm run build`
 - Deploy to GitHub pages: `gh-pages -d build`
-- Visit [tahaafzal.com](https://tahaafzal.com)
 
 ### Extra
 * To see the app on a mobile phone:

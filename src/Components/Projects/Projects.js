@@ -7,23 +7,46 @@ function Projects() {
             <h1 className="heading">PROJECTS</h1>
 
             <Project
-                project="Uni Go"
-                role="Founder and Developer"
-                date="Oct 2023 - Present"
+                project="Human-Powered Tiller Design Project (ME 2700)"
+                role="Lead Mechanical Designer"
+                date="Aug 2025 - Dec 2025"
                 description={[
-                    "Leading the re-branded development of Ridesio to bring an affordable, and communal mode of transportation to college campuses.",
-                    "Collaborating with 3 college campuses to integrate Uni Go, delivering a tailored solution that meets the unique needs of each college."
+                    "Directed SolidWorks design and material selection for a human-powered tiller.",
+                    "Ran DFM/DFA and tracked the BOM to hit a $150 budget.",
+                    "Fabricated a functional prototype on the lathe, mill, bandsaw, and drill press."
                 ]}
             />
 
             <Project
-                project="Health Memo"
-                role="Tech Lead"
-                date="Oct 2020 - Nov 2020"
+                project="Makala Soprano Ukulele (Model MK-S)"
+                role="Designer"
+                date="Jul 2025 - Aug 2025"
                 description={[
-                    "Led a team of 3 to develop an iOS app to help the elderly manage their chronic diseases and share regular updates with their doctor.",
-                    "Utilized EMRs and implemented Google's Text-to-Speech and Speech-to-Text to create a personalized experience for patients.",
-                    "Won $9,000 along with an invitation to work with engineers at Sanford Health for further research and development of the project."
+                    "Recreated a Makala soprano ukulele from direct measurement.",
+                    "Modeled a high-fidelity CAD assembly in SolidWorks with complex surfaces.",
+                    "Printed a 3D scale replica matching the original geometry."
+                ]}
+            />
+
+            <Project
+                project="Tire Rim Design for Solar Car — PRISUM Team"
+                role="Design Engineer"
+                date="Jun 2025 - Jul 2025"
+                description={[
+                    "Produced a lightweight rim via 3D printing, engineered for strength and cost.",
+                    "Tuned geometry for real-world driving loads and vehicle dynamics.",
+                    "Balanced aesthetic and functional requirements for the PRISM team."
+                ]}
+            />
+
+            <Project
+                project="Piston Engine – 4-Cylinder Assembly"
+                role="Designer"
+                date="Jun 2025 - Jun 2025"
+                description={[
+                    "Assembled a 4-cylinder piston engine from scratch in SolidWorks.",
+                    "Simulated crankshaft and piston motion using mechanical mates.",
+                    "Strengthened assembly design and constraint-management skills."
                 ]}
             />
         </section>

@@ -4,6 +4,7 @@ import WorkExperiences from "../WorkExperience/WorkExperiences.js";
 import HorizontalDivider from "../HorizontalDivider/HorizontalDivider.js";
 import Educations from "../Education/Educations.js";
 import HonorsAndAwards from "../HonorAndAward/HonorsAndAwards.js";
+import Publications from "../Publications/Publications.js";
 import Projects from "../Projects/Projects.js";
 import LeadershipAndAffiliations from "../LeadershipAndAffiliations/LeadershipAndAffiliations.js";
 import "./LeftSide.css";
@@ -16,9 +17,11 @@ function LeftSide() {
             <HorizontalDivider />
             <Educations />
             <HorizontalDivider />
+            <Projects />
+            <HorizontalDivider />
             <HonorsAndAwards />
             <HorizontalDivider />
-            <Projects />
+            <Publications />
             <HorizontalDivider />
             <LeadershipAndAffiliations />
         </section>
