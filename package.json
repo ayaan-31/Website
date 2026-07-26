@@ -2,6 +2,7 @@
   "name": "personal-website-2.0",
   "version": "23.1.4",
   "private": true,
+  "homepage": "https://ayaanafzal.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
