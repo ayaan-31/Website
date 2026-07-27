@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.cc7e9307.css",
-    "main.js": "/static/js/main.38ca9ce0.js",
+    "main.js": "/static/js/main.cff24a7c.js",
     "static/js/453.00c2c028.chunk.js": "/static/js/453.00c2c028.chunk.js",
     "static/media/104-5817 (TORO weld fixture).png": "/static/media/104-5817 (TORO weld fixture).2dcb13611313eefbc29c.png",
     "static/media/104-5818 (TORO weld fixture).png": "/static/media/104-5818 (TORO weld fixture).cb01f25867205a7182b7.png",
     "static/media/CNH1.png": "/static/media/CNH1.94af0eb72eadbb4b07ee.png",
     "static/media/TL146-8046-WT.png": "/static/media/TL146-8046-WT.34fcf2c06e4ccb7de004.png",
+    "static/media/PBRholder.png": "/static/media/PBRholder.40eb0919a66b32d837b3.png",
     "static/media/ME-270-Design-Expo-Poster.pdf": "/static/media/ME-270-Design-Expo-Poster.4588dbbd4f3788d345ab.pdf",
     "static/media/TORO defect.png": "/static/media/TORO defect.de35e5060a2991010239.png",
     "static/media/TORO defect 1.png": "/static/media/TORO defect 1.b75a67baf4dc73d5d30d.png",
@@ -28,11 +29,11 @@
     "static/media/ukelele - CAD.jfif": "/static/media/ukelele - CAD.a51ef23da5dc8c0bc378.jfif",
     "index.html": "/index.html",
     "main.cc7e9307.css.map": "/static/css/main.cc7e9307.css.map",
-    "main.38ca9ce0.js.map": "/static/js/main.38ca9ce0.js.map",
+    "main.cff24a7c.js.map": "/static/js/main.cff24a7c.js.map",
     "453.00c2c028.chunk.js.map": "/static/js/453.00c2c028.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc7e9307.css",
-    "static/js/main.38ca9ce0.js"
+    "static/js/main.cff24a7c.js"
   ]
 }
