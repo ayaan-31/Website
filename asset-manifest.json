@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.9b8c2e3b.css",
-    "main.js": "/static/js/main.9aae22bd.js",
+    "main.js": "/static/js/main.eeb8ea8b.js",
     "static/js/453.00c2c028.chunk.js": "/static/js/453.00c2c028.chunk.js",
     "static/media/104-5817 (TORO weld fixture).png": "/static/media/104-5817 (TORO weld fixture).2dcb13611313eefbc29c.png",
     "static/media/104-5818 (TORO weld fixture).png": "/static/media/104-5818 (TORO weld fixture).cb01f25867205a7182b7.png",
     "static/media/CNH1.png": "/static/media/CNH1.94af0eb72eadbb4b07ee.png",
+    "static/media/Coolant Tray iso.png": "/static/media/Coolant Tray iso.b48a467a2f92537d3f20.png",
     "static/media/headshot.png": "/static/media/headshot.036aa06d10824652a17b.png",
     "static/media/TL146-8046-WT.png": "/static/media/TL146-8046-WT.34fcf2c06e4ccb7de004.png",
     "static/media/PBRholder.png": "/static/media/PBRholder.40eb0919a66b32d837b3.png",
     "static/media/ME-270-Design-Expo-Poster.pdf": "/static/media/ME-270-Design-Expo-Poster.4588dbbd4f3788d345ab.pdf",
+    "static/media/Coolant tray side.png": "/static/media/Coolant tray side.81e507b77fd0f03a22d8.png",
     "static/media/TORO defect.png": "/static/media/TORO defect.de35e5060a2991010239.png",
     "static/media/TORO defect 1.png": "/static/media/TORO defect 1.b75a67baf4dc73d5d30d.png",
-    "static/media/coolant tray1.png": "/static/media/coolant tray1.1de93baff243bdf54497.png",
     "static/media/TORO defect 2.png": "/static/media/TORO defect 2.a3f6f6a403aad063bf75.png",
     "static/media/INPR.png": "/static/media/INPR.9336572aebdef359a960.png",
     "static/media/tiller - prototype.jfif": "/static/media/tiller - prototype.5028d5b779652d448f15.jfif",
     "static/media/download-logo.jpg": "/static/media/download-logo.8b84b889e0298fb353cb.jpg",
     "static/media/linkedin-logo.jpg": "/static/media/linkedin-logo.a46a45ceba7e6a9709b8.jpg",
-    "static/media/Coolant tray.png": "/static/media/Coolant tray.027e58aab59e9ca00b58.png",
     "static/media/resume-ayaan-afzal.pdf": "/static/media/resume-ayaan-afzal.2f03c1d248db3a4d324f.pdf",
     "static/media/download-logo-hover.jpg": "/static/media/download-logo-hover.7320683eeb6574a0610b.jpg",
     "static/media/linkedin-logo-hover.jpg": "/static/media/linkedin-logo-hover.d862ed8edcd9f81bfb8d.jpg",
@@ -29,11 +29,11 @@
     "static/media/ukelele - CAD.jfif": "/static/media/ukelele - CAD.a51ef23da5dc8c0bc378.jfif",
     "index.html": "/index.html",
     "main.9b8c2e3b.css.map": "/static/css/main.9b8c2e3b.css.map",
-    "main.9aae22bd.js.map": "/static/js/main.9aae22bd.js.map",
+    "main.eeb8ea8b.js.map": "/static/js/main.eeb8ea8b.js.map",
     "453.00c2c028.chunk.js.map": "/static/js/453.00c2c028.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b8c2e3b.css",
-    "static/js/main.9aae22bd.js"
+    "static/js/main.eeb8ea8b.js"
   ]
 }
