@@ -1,22 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9b8c2e3b.css",
-    "main.js": "/static/js/main.e6d7782e.js",
+    "main.js": "/static/js/main.9150c568.js",
     "static/js/453.00c2c028.chunk.js": "/static/js/453.00c2c028.chunk.js",
-    "static/media/TL146-7638-WT1 (iso).png": "/static/media/TL146-7638-WT1 (iso).e7a877aa70c980ca71a6.png",
-    "static/media/TL146-7638-WT1 (mine).png": "/static/media/TL146-7638-WT1 (mine).a53673ce6576104856b3.png",
-    "static/media/104-5817 (TORO weld fixture).png": "/static/media/104-5817 (TORO weld fixture).2dcb13611313eefbc29c.png",
-    "static/media/104-5818 (TORO weld fixture).png": "/static/media/104-5818 (TORO weld fixture).cb01f25867205a7182b7.png",
-    "static/media/CNH1.png": "/static/media/CNH1.94af0eb72eadbb4b07ee.png",
-    "static/media/TL146-7638-WT2.png": "/static/media/TL146-7638-WT2.e4854334bd8e9317954a.png",
     "static/media/headshot.png": "/static/media/headshot.036aa06d10824652a17b.png",
     "static/media/coolant tray (iso).png": "/static/media/coolant tray (iso).66255a13a2346a2d8789.png",
-    "static/media/TL146-8046-WT.png": "/static/media/TL146-8046-WT.34fcf2c06e4ccb7de004.png",
     "static/media/INPR1.png": "/static/media/INPR1.1e0a0af5a4fb500217bc.png",
     "static/media/PBRholder.png": "/static/media/PBRholder.40eb0919a66b32d837b3.png",
     "static/media/coolant tray (side).png": "/static/media/coolant tray (side).09a76611fee4d389769b.png",
     "static/media/ME-270-Design-Expo-Poster.pdf": "/static/media/ME-270-Design-Expo-Poster.4588dbbd4f3788d345ab.pdf",
-    "static/media/TORO defect.png": "/static/media/TORO defect.de35e5060a2991010239.png",
     "static/media/coverage.png": "/static/media/coverage.bddc60784d3d95210c6c.png",
     "static/media/tiller - prototype.jfif": "/static/media/tiller - prototype.5028d5b779652d448f15.jfif",
     "static/media/download-logo.jpg": "/static/media/download-logo.8b84b889e0298fb353cb.jpg",
@@ -31,11 +23,11 @@
     "static/media/ukelele - CAD.jfif": "/static/media/ukelele - CAD.a51ef23da5dc8c0bc378.jfif",
     "index.html": "/index.html",
     "main.9b8c2e3b.css.map": "/static/css/main.9b8c2e3b.css.map",
-    "main.e6d7782e.js.map": "/static/js/main.e6d7782e.js.map",
+    "main.9150c568.js.map": "/static/js/main.9150c568.js.map",
     "453.00c2c028.chunk.js.map": "/static/js/453.00c2c028.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b8c2e3b.css",
-    "static/js/main.e6d7782e.js"
+    "static/js/main.9150c568.js"
   ]
 }
